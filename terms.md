@@ -2,9 +2,9 @@
 
 *Welcome to Smart Word Count!*
 
-These Terms of Service (this “Agreement”) is between you, and Smart Word Count (operated by RSC Solutions LLC. ). By using our applications on phones, our websites, and/or other services we provide, you agree to be bound by this Agreement. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to RSC Solutions LLC. . If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
+These Terms of Service (this “Agreement”) is between you, and Smart Word Count (operated by RSC Solutions LLC). By using our applications on phones, our websites, and/or other services we provide, you agree to be bound by this Agreement. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to RSC Solutions LLC. If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
 
-Smart Word Count (operated by RSC Solutions LLC. ) is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Smart Word Count (operated by RSC Solutions LLC) is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
 By using our service, you agree to the following terms and conditions:
 
@@ -24,7 +24,7 @@ You agree to indemnify, defend, and hold harmless Smart Word Count, its affiliat
 
 You agree that Smart Word Count will not be liable to you for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses arising out of or in connection with your use of our service.
 
-In particular, customer may not, and will not allow third parties (including Internal Users and End Users) to use the Products, responses created using the Products, Documentation or other data, information or service provided by Smart Word Count (by RSC Solutions LLC.) 
+In particular, customer may not, and will not allow third parties (including Internal Users and End Users) to use the Products, responses created using the Products, Documentation or other data, information or service provided by Smart Word Count (by RSC Solutions LLC 
 
 a) in connection with or for the purpose of operating critical infrastructure such as electrical power stations, military or defence equipment, medical appliances or other equipment whose failure or impairment would result in unforeseeable economical or physical damages;
 b) for any illegal activities, including development of any applications infringing any third-party rights or any other applicable laws or regulations;
@@ -48,7 +48,7 @@ Our service may make use of third-party services and technology. By using our se
 
 ## Waiver of Rights. 
 
-Smart Word Count's (operated by RSC Solutions LLC. ) failure to enforce any right or provision of this Agreement will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Smart Word Count (operated by RSC Solutions LLC. ). Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise.
+Smart Word Count's (operated by RSC Solutions LLC) failure to enforce any right or provision of this Agreement will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Smart Word Count (operated by RSC Solutions LLC). Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise.
 
 ## Changes to This Terms and Conditions
 
